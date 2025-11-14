@@ -1,0 +1,65 @@
+/* Custom overrides/additions for the PS5 pages */
+:root {
+  --ps-blue: #00439c;
+  --ps-dark: #0d1117;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.navbar-brand img {
+  height: 28px;
+}
+
+.hero {
+  background: linear-gradient(180deg, #f7f9fc 0%, #ffffff 100%);
+}
+
+.hero .display-4 {
+  font-weight: 700;
+}
+
+.feature-icon {
+  width: 48px;
+  height: 48px;
+}
+
+.footer-brand img {
+  height: 28px;
+}
+
+.footer {
+  border-top: 1px solid #e5e7eb;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 220px;
+}
+
+/* Spacing utilities for sections */
+.section-tight {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Card hover lift effect */
+.hover-lift {
+  transition: transform 0.24s ease, box-shadow 0.24s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 1rem 2rem rgba(0,0,0,0.12) !important;
+}
+
+/* Rounded, shadowed media containers */
+.media-rounded {
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+.media-shadow {
+  box-shadow: 0 0.75rem 1.5rem rgba(0,0,0,0.12);
+}

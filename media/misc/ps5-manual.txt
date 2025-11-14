@@ -1,0 +1,13 @@
+PlayStation 5 Quick Manual (Sample)
+
+This is a placeholder manual file. Replace this with your final PDF (use the same filename: ps5-manual.pdf) when ready.
+
+Contents:
+1) Setup and Connections
+2) Using DualSense Controller
+3) Account and Network Setup
+4) Game Library and Storage
+5) Video/Audio Output Settings
+6) Safety and Maintenance
+
+Tip: Put your real manual as media/misc/ps5-manual.pdf and I will update the link to point to the PDF.
